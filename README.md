@@ -10,7 +10,7 @@
 <p>PS: I decided to edit my readme. My account has steadily been growing in followers, yet not in stars, so please feel free to Star my top quotes website.</p>
 🇺🇦
 <br>
-<p>A Sample of My Upcoming Website:</p>
+<p>A Sample of My Upcoming Website: https://jacksonuptain.github.io/Parallax-Effect-FullCode-From-TrueCoderYT/3D-Parallax-Website-in-JavaScript-main/index.html</p>
 
 
 https://github.com/JacksonUptain/JacksonUptain/assets/111402072/18b832cf-6375-44ed-8cf0-ba571d8eb535
