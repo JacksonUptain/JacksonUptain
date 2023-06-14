@@ -8,6 +8,8 @@
 <p>PS: I decided to edit my readme. My account has steadily been growing in followers, yet not in stars, so please feel free to Star my top quotes website.</p>
 🇺🇦
 <br>
-<body>
-  <iframe src="https://jacksonuptain.github.io/topquotes" height="800" width="1200" title="Iframe Example"></iframe>
-</body>
+<p>A Sample of My Upcoming Website:</p>
+
+
+https://github.com/JacksonUptain/JacksonUptain/assets/111402072/18b832cf-6375-44ed-8cf0-ba571d8eb535
+
