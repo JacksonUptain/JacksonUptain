@@ -1,4 +1,6 @@
 ### Hi there 👋
+![A0EE0DB5-EB65-46E0-97EA-936FA52BB057](https://github.com/JacksonUptain/JacksonUptain/assets/111402072/d228f7e3-06f0-41da-99fb-55ff316c33fb)
+
 🇺🇦
 <head>
   <link rel="icon" href="logo-removebg-preview (1).png" type="image/gif">
