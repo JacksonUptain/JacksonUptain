@@ -1,5 +1,6 @@
-### Hi there 👋
-![A0EE0DB5-EB65-46E0-97EA-936FA52BB057](https://github.com/JacksonUptain/JacksonUptain/assets/111402072/d228f7e3-06f0-41da-99fb-55ff316c33fb)
+### Hey, I'm Jackson Uptain
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jacksonuptain&label=Profile%20views&color=ce9927&style=flat" alt="jacksonuptain" /> </p>
+<br>
 
 🇺🇦
 <head>
