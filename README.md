@@ -16,3 +16,5 @@
 
 https://github.com/JacksonUptain/JacksonUptain/assets/111402072/18b832cf-6375-44ed-8cf0-ba571d8eb535
 
+<br>
+<strong>Fact of the day: Search up your name and check the repos in github...for me, I found an appreciation page: https://github.com/puntorigen/be_grateful</strong>
