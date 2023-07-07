@@ -19,4 +19,4 @@
 https://github.com/JacksonUptain/JacksonUptain/assets/111402072/18b832cf-6375-44ed-8cf0-ba571d8eb535
 
 <br>
-<strong>Fact of the day: Its the Fourth of July!!</strong>
+<strong>Fact of the day: Profile Counters are surprisingly easy...get one!</strong>
