@@ -1,7 +1,5 @@
 ### Hey, I'm Jackson Uptain
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jacksonuptain&label=Profile%20views&color=ce9927&style=flat" alt="jacksonuptain" /> </p>
-
-<img align="center" src="GenesisSpace.png"></img>
+<p align="center">Check Out This Video: https://m.youtube.com/watch?v=-V7WvaPnuRY</p>
 🇺🇦
 <head>
   <link rel="icon" href="logo-removebg-preview (1).png" type="image/gif">
