@@ -14,7 +14,6 @@
 🇺🇦
 <p><strong>Hey, I'm Jackson Uptain, I live in Alabama, I'm 15 years old and for the last 12 months I've been working on code projects. I learned how to code at Codecademy.com and I've enjoyed every minute of it. My current skills are in: JavaScript, Java, HTML5, CSS, and system OS like the Raspberry PI. I also love experimenting with A-Frame web VR and Three.JS. If your interested in collaborating with me then just invite me to your Organization. This is a very active and experimental account, so feel free to check in every once in a while</strong></p>
 🇺🇦
-![DCF59D63-6D0A-436D-A796-1478E7386E9B](https://github.com/JacksonUptain/JacksonUptain/assets/111402072/704439fb-e09e-4bb2-a9c1-2b65540def6f)
 
 
 <br>
