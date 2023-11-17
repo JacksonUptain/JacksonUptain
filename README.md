@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacksonuptain&theme=tokyonight&no-bg=True" alt="jacksonuptain" width="1000"/></a> </p>
 
-- 🔭 I’m currently written in: **Bash Shell**
+- 🔭 Currently written in: **Bash Shell**
 
 - 💬 Ask me about: **How to use the tool/Extra Help**
 
