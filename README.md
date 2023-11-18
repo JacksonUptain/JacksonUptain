@@ -1,6 +1,6 @@
 
 <p><strong>Hey, I'm Jackson Uptain, I live in Alabama, I'm 15 years old and for the last 17 months I've been working on code projects. I learned how to code at Codecademy.com and I've enjoyed every minute of it. My current skills are in: JavaScript, Java, HTML5, CSS, and OS like the RaspberryPi/Linux. Currently I've enjoyed working on some cool ethical hacking projects.</strong></p>
-
+<h3>Link to my portfolio: https://jacksonuptain.github.io/JacksonUptainPortfolio/index.html</h3>
 <h1 align="left">Check Out Wifi CayoteWifi</h1>
 <h3 align="left">A powerful Wifi-Hacking Assistant</h3>
 <h3 align="left">Link: https://github.com/JacksonUptain/WifiCayote</h3>
