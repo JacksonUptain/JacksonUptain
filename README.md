@@ -7,6 +7,7 @@
   CURRENTLY IN DEVELOPMENT : SHADOW-SCRAPER
 </h4>
 <p>A Javascript 3d Horror-type game using Electron to play it as a desktop app</p>
+<img src="https://github.com/JacksonUptain/JacksonUptain/Horror.png">
 <br>
 
   
