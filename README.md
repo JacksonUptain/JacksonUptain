@@ -1,6 +1,6 @@
 # Projects I've Been Working On Recently
 
----
+
 
 ## 🦋 Capturing Literacy LLC
 A website I built for a Certified Academic Language Therapist (CALT)  
