@@ -1,6 +1,25 @@
-<h2 align="left">Wifi Cayote: A wifi portal that "Rickrolls" you </h1>
-<h3 align="left">https://github.com/JacksonUptain/WifiCayote</h3>
-<h2>A website I built for a local knife business</h2>
-<h3>https://NolansKnives.com</h3>
-<h2>📫 How to reach me: **jackson.uptain@outlook.com**</h2>
+# Projects I've Been Working On Recently
 
+---
+
+## 🦋 Capturing Literacy LLC
+A website I built for a Certified Academic Language Therapist (CALT)  
+**Link:** https://CapturingLiteracy.com
+
+---
+
+## 🔪 Nolans Knives
+A website I built for a local knife business and friend  
+**Link:** https://NolansKnives.com
+
+
+---
+
+## 📡🦊 Wifi Cayote
+A wifi captive portal that forcibly "Rickrolls" you  
+**GitHub:** https://github.com/JacksonUptain/WifiCayote
+
+---
+
+## 📫 Contact
+jackson.uptain@gmail.com
