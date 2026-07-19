@@ -23,7 +23,7 @@ A wifi captive portal that forcibly "Rickrolls" you
 
 ## 🥩 Andy's Macro Counter
 A web-app that allows you to track your macros--plain and simple.  
-**GitHub:** https://JacksonUptain.github.io/AndysMacroApp/
+**Link:** https://JacksonUptain.github.io/AndysMacroApp/
 
 ---
 
