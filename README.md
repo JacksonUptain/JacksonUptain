@@ -1,4 +1,12 @@
+<div align="center">
+
 # Projects I've Been Working On Recently
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="middle">
 
 ## 🦋 Capturing Literacy LLC
 
@@ -6,7 +14,8 @@ A website I built for a Certified Academic Language Therapist (CALT).
 
 **Link:** https://CapturingLiteracy.com
 
----
+</td>
+<td width="50%" valign="middle">
 
 ## 🔪 Nolans Knives
 
@@ -14,7 +23,11 @@ A website I built for a local knife business.
 
 **Link:** https://NolansKnives.com
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="middle">
 
 ## 📡 Wifi Cayote
 
@@ -22,7 +35,8 @@ A Wi-Fi captive portal that forcibly "Rickrolls" you.
 
 **GitHub:** https://github.com/JacksonUptain/WifiCayote
 
----
+</td>
+<td width="50%" valign="middle">
 
 ## 🥩 Andy's Macro Counter
 
@@ -30,44 +44,104 @@ A web app that allows you to track your macros—plain and simple.
 
 **Link:** https://JacksonUptain.github.io/AndysMacroApp/
 
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
 # Projects I've worked on for Brindlee Fire Services (BFS)
+
 BFS subsidiaries: Rural Metro Fire Department (RMF), Brindlee Mountain Fire Apparatus (BMFA), Capstone Fire and Safety (Capstone)
 
-## 🤖 AI Fire Truck Photo Editing Pipeline (BMFA)
+</div>
 
-A multi-step, multi-agent pipeline for editing fire truck photos that automates compliance and removes human editing, cutting turnaround from hours to minutes.
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="middle">
+
+## 🤖 AI Fire Truck Photo Editing Pipeline (@BMFA)
+
+A multi-step, multi-agent pipeline for editing fire truck photos that removes human editing, is compliant to BMFS standards, reduces costs by over 50%, and reduced the time for BMFA from 24+ hours down to minutes.
 
 **Demo coming soon**
 
----
+</td>
+</tr>
+</table>
 
-## 📊 AI Account & Opportunity Enrichment Tool (RMF)
+<br>
 
-An AI-driven enrichment tool that automates deep, contextual (and online) research on Salesforce accounts and opportunities.
+<table>
+<tr>
+<td width="100%" valign="middle">
 
----
+## 📊 AI Account & Opportunity Enrichment Tool (@RMF)
 
-## 🛒 Yuma RV Parks Web-Store Rebuild & Make Automation (RMF)
+An AI-driven enrichment tool that automates deep, contextual (and online) research for Salesforce accounts and opportunities. I enriched 2000+ opportunities (and their Accounts) much faster than a salesman could manually enter data or do web research.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="middle">
+
+## 🛒 Yuma RV Parks Web-Store (StoreConnect) Rebuild & Make Automation (@RMF)
 
 A Make automation that runs on form submission to auto-populate checkout fields, manage cart items, and save user details as custom objects in Salesforce.
 
----
+</td>
+</tr>
+</table>
 
-## 🏗️ Capstone Website Takeover & Rebuild
+<br>
 
-A tool that migrates frontend pages from WordPress into a new project, integrating AI to allow for direct, streamlined content editing.
+<table>
+<tr>
+<td width="100%" valign="middle">
+
+## 🏗️ Capstone Website Rebuild (and Created a CMS for it)
+
+I built a program that pulls the content of a full website and then converts it into a simple format that can be easily edited with our own CMS.
 
 **Link:** https://capstonefire.netlify.app/
 
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="middle">
+
+## 🔎 AI RFP Discovery Tool (@RMF)
+
+An AI-driven tool that scans "RFP websites" and API docs to build reusable components and "RFP Extractor" code, allowing users to build tailored RFP "pipelines" that will grade opportunities to their choosing.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
-## 🔎 AI RFP Discovery Tool (RMF)
+<div align="center">
 
-An AI-driven tool that scans RFP websites to build reusable components, allowing users to build and schedule custom RFP retrieval pipelines via chat.
-
-
----
-
-## 📫 Contact
+# 📫 Contact
 
 [jackson.uptain@gmail.com](mailto:jackson.uptain@gmail.com)
+
+</div>
