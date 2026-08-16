@@ -68,7 +68,7 @@ BFS subsidiaries: Rural Metro Fire Department (RMF), Brindlee Mountain Fire Appa
 
 ## 🤖 AI Fire Truck Photo Editing Pipeline (@BMFA)
 
-A multi-step, multi-agent pipeline for editing fire truck photos that removes human editing, is compliant to BMFS standards, reduces costs by over 50%, and reduced the time for BMFA from 24+ hours down to minutes.
+A multi-step, multi-agent pipeline for editing fire truck photos that removes human editing, is compliant to BMFS standards, reduces costs by over 50%, and reduced the time for BMFA from hours down to minutes.
 
 
 
