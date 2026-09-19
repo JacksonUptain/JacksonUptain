@@ -68,7 +68,7 @@ BFS subsidiaries: Rural Metro Fire Department (RMF), Brindlee Mountain Fire Appa
 
 ## 🤖 AI Fire Truck Photo Editing Pipeline (@BMFA)
 
-A multi-step, multi-agent pipeline for editing fire truck photos that removes human editing, is compliant to BMFS standards, reduces costs by over 50%, and reduced the time for BMFA from hours down to minutes.
+A multi-step, multi-agent pipeline for editing fire truck photos that removes human editing, is compliant to BMFS standards, reduces costs by over 50%, and reduced the time for BMFA from hours to minutes.
 
 
 
@@ -84,7 +84,7 @@ A multi-step, multi-agent pipeline for editing fire truck photos that removes hu
 
 ## 📊 AI Account & Opportunity Enrichment Tool (@RMF)
 
-An AI-driven enrichment tool that automates deep, contextual (and online) research for Salesforce accounts and opportunities. I enriched 2000+ opportunities (and their Accounts) much faster than a salesman could manually enter data or do web research.
+An AI-driven enrichment tool that automates deep, contextual (and online) research for Salesforce accounts and opportunities.
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ An AI-driven enrichment tool that automates deep, contextual (and online) resear
 <tr>
 <td width="100%" valign="middle">
 
-## 🛒 Yuma RV Parks Web-Store (StoreConnect) Rebuild & Make Automation (@RMF)
+## 🛒 Web-Store (StoreConnect) Rebuild & Make Automation (@RMF)
 
 A Make automation that runs on form submission to auto-populate checkout fields, manage cart items, and save user details as custom objects in Salesforce.
 
@@ -106,21 +106,6 @@ A Make automation that runs on form submission to auto-populate checkout fields,
 
 <br>
 
-<table>
-<tr>
-<td width="100%" valign="middle">
-
-## 🏗️ Capstone Website Rebuild (and Created a CMS for it)
-
-I built a program that pulls the content of a full website and then converts it into a simple format that can be easily edited with our own CMS.
-
-**Link:** https://capstonefire.netlify.app/
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <table>
 <tr>
